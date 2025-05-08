@@ -1,2 +1,2 @@
 # better-workspace-switcher
-![Uploading image.png…]()
+https://i.ibb.co/qMcNRMZs/image.png
